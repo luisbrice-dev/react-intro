@@ -12,7 +12,7 @@ function TodoItem(props) {
                 {props.text}
             </p>
             <TiDelete className="Icon Icon-container-delete  Icon-svg" onClick={props.onDelete}/> 
-        </li>
+        </li>//
     );
 }
 
