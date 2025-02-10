@@ -1,7 +1,7 @@
 import './TodoItem.css';
 import { FaCheck } from "react-icons/fa";
 import { TiDelete } from "react-icons/ti";
-import './TodoIcon.css';
+import '../TodoIcon/TodoIcon.css';
 
 function TodoItem(props) {
     return (
